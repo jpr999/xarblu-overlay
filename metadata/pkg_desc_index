@@ -15,7 +15,6 @@ app-misc/uwufetch 2.1: A meme system info tool for Linux, based on nyan/uwu tren
 app-misc/uwuify 0.2.2-r1: fastest text uwuifier in the west
 app-portage/portcache 0.3.0 0.4.0: Portage Distfiles Cache
 app-portage/portpresence 0.2.0 0.3.0 0.3.2: Discord Rich Presence for Portage
-dev-libs/libcdio-paranoia 2.0.2: an advanced CDDA reader with error correction
 dev-python/jellyfin-apiclient-python 1.9.2-r1 1.11.0: Python API Client for Jellyfin
 dev-python/pystray 0.19.5-r1: Python library for creating system tray icons
 dev-python/python-mpv-jsonipc 1.2.0-r1 1.2.1: Python API to MPV using JSON IPC
@@ -48,13 +47,12 @@ mpv-plugin/uosc 5.11.0 5.12.0: Feature-rich minimalist proximity-based UI for MP
 net-dns/dnsproxy 0.76.1 0.76.2 0.77.0: Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 net-fs/netdev-automount 1.1 2.0: Automatically (un)mount network filesystems
 net-im/vesktop-bin 1.6.0 1.6.1: All-in-one voice and text chat for gamers with Vencord Preinstalled
-net-misc/linux-discord-rpc 2.2-r1: Custom Discord Rich Presence for Linux
 net-misc/studip 0_p20250607 0_p20251015: A toy Stud.IP client
 sci-electronics/digital 0.30 0.31: A digital logic designer and circuit simulator
 sci-electronics/rars 1.5_p20220628 1.6: RISC-V Assembler and Runtime Simulator
 sys-apps/mission-center 0.6.2 1.0.2: Monitor your CPU, Memory, Disk, Network and GPU usage.
-sys-fs/bcachefs-tools 1.31.9 1.31.11 1.31.12: Tools for bcachefs
-sys-kernel/cachyos-kernel 6.17.5 6.17.6 6.17.7 6.18_rc3 6.18_rc4: Linux kernel built with CachyOS and Gentoo patches
+sys-fs/bcachefs-tools 1.31.9 1.31.11 1.31.12 1.31.13: Tools for bcachefs
+sys-kernel/cachyos-kernel 6.17.5 6.17.6 6.17.7 6.18_rc3 6.18_rc4 6.18_rc4-r1: Linux kernel built with CachyOS and Gentoo patches
 sys-kernel/cachyos-settings 1.2.7 1.2.9 1.2.10 1.2.11 1.2.12: Configuration files and tweaks from CachyOS
 sys-kernel/steamdeck-firmware 1.2.3: Steamdeck Firmware (from CachyOS)
 virtual/dist-kernel 6.17.5 6.17.6 6.17.7 6.18_rc3 6.18_rc4: Virtual to depend on any Distribution Kernel
